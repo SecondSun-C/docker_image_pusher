@@ -1,3 +1,1 @@
-nginx
-prometheus:latest
-grafana:latest
+prom/prometheus
