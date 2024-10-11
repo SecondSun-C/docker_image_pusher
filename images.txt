@@ -1,1 +1,1 @@
-grafana/grafana-enterprise
+portainer/portainer:latest
