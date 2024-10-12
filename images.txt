@@ -1,1 +1,1 @@
-prometheus/node_exporter
+quay.io/prometheus/node-exporter
