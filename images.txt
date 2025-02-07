@@ -1,2 +1,1 @@
-rhastie/nmos-cpp:latest
-amwa/nmos-testing:latest
+jeessy/ddns-go
